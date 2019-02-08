@@ -1,8 +1,8 @@
 # Дас ист Проджект тайтл
 
-Ein Abschnitt der Projektbeschreibung geht hier
+теперь только это
 
-## Fertig machen
+## Геттинг стартет
 
 Mit diesen Anweisungen erhalten Sie eine Kopie des Projekts, das zu Entwicklungs- und Testzwecken auf Ihrem lokalen Computer installiert ist. Hinweise zur Bereitstellung des Projekts auf einem Live-System finden Sie unter Bereitstellung.
 
