@@ -1,10 +1,10 @@
 # Дас ист Проджект тайтл
 
-Ein Abschnitt der Projektbeschreibung geht hier
+теперь только это
 
 ## Геттинг стартет
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Mit diesen Anweisungen erhalten Sie eine Kopie des Projekts, das zu Entwicklungs- und Testzwecken auf Ihrem lokalen Computer installiert ist. Hinweise zur Bereitstellung des Projekts auf einem Live-System finden Sie unter Bereitstellung.
 
 ### Voraussetzungen
 
@@ -14,7 +14,7 @@ Welche Dinge benötigen Sie, um die Software zu installieren und wie Sie sie ins
 Beispiele
 ```
 
-### Installieren
+###  Installieren
 
 Eine schrittweise Reihe von Beispielen, die Ihnen zeigen, wie Sie eine Entwicklungsumgebung zum Laufen bringen
 
