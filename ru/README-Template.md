@@ -2,7 +2,7 @@
 
 One Paragraph of project description goes here
 
-## Getting Started
+## Начиная
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -36,9 +36,9 @@ until finished
 
 Explain how to run the automated tests for this system
 
-### Break down into end to end tests
+### Разбить в конец до конца испытаний
 
-Explain what these tests test and why
+Объясните, что тестируют эти тесты и почему
 
 ```
 Приведите пример
@@ -78,10 +78,10 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## Лицензия
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Этот проект лицензирован по лицензии MIT - подробности смотрите в файле [LICENSE.md](LICENSE.md)
 
 ## Подтверждения
 
-- Hat tip to anyone whose code was used
+- Шляпа для всех, чей код был использован
 - Inspiration
 - так далее
