@@ -1,6 +1,6 @@
 # Project Title
 
-One Paragraph of project description goes here
+Один абзац описания проекта находится здесь
 
 ## Getting Started
 
@@ -41,7 +41,7 @@ Explain how to run the automated tests for this system
 Explain what these tests test and why
 
 ```
-Give an example
+Приведите пример
 ```
 
 ### И тесты стиля кодирования
