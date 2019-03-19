@@ -1,8 +1,8 @@
-# Project Title
+# Название Проекта
 
 Один абзац описания проекта находится здесь
 
-## Getting Started
+## Начало работы
 
 Эти инструкции предоставят вам копию проекта
 
@@ -49,7 +49,7 @@ Explain what these tests test and why
 Explain what these tests test and why
 
 ```
-Give an example
+Пример Пример Пример Пример Пример Пример Пример Пример Пример Пример Пример Пример Пример Пример Пример Пример Пример Пример Пример Пример Пример Пример Пример Пример Пример Пример Пример 
 ```
 
 ## Deployment
@@ -64,7 +64,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Пожалуйста, ознакомьтесь с [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) для получения подробной информации о нашем кодексе поведения и процедуре подачи нам запросов на получение ответов.
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
